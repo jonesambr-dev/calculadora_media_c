@@ -1,2 +1,2 @@
-# calculadora_media_c
-Calculadora de média escolar trimestral.
+Calcule a média clicando neste link.
+https://calculadora-de-media-trimestral--jonesambr.replit.app
